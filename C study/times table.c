@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void)
+int main()
 {
     for (int i=2; i<=9; i++)
     {

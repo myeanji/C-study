@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void)
+int main()
 {   
     int floor;
     printf("몇 층으로 쌓겠느냐?");
